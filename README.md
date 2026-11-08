@@ -1,2 +1,2 @@
 # ChatControlsVMware-VBox
-A VMware+VBox (Virtual Box) Python Program that Can allow Youtube Chat to Control Your VM
+A VMware+VBox (Virtual Box) Python program that can allow Youtube chat to Control Your VM
